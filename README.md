@@ -18,6 +18,7 @@ Measuring performance using RMSE, R² score, and comparisons.
 ## 📊 Results & Insights
 The most influential factors on car pricing include mileage, brand, and engine size.
 
+**Maintained by**: [@krutanic](https://github.com/krutanic)
 
 
 
